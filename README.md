@@ -1,8 +1,8 @@
-[![MasterHead](https://images.squarespace-cdn.com/content/v1/53d677d2e4b090e9cd5361cf/1605321146624-39YFN0P0PL86QCX7W0EG/3c00f6105775659.5f84899401909.gif)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm VARNARAJ N.</h1>
 <h3 align="center">Undergraduate University Of Peradeniya. Faculty Of Engineering.</h3>
 
-(img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/53d677d2e4b090e9cd5361cf/1605321146624-39YFN0P0PL86QCX7W0EG/3c00f6105775659.5f84899401909.gif")
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varnaraj&label=Profile%20views&color=0e75b6&style=flat" alt="varnaraj" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=varnaraj" alt="varnaraj" /></a> </p>
